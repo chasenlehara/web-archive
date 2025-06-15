@@ -1,0 +1,35 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Chasen’s Web Blog",
+	"icon": "https://micro.blog/chasen/avatar.jpg",
+	"home_page_url": "https://web.chasen.dev/",
+	"feed_url": "https://web.chasen.dev/feed.json",
+	"items": [
+		
+			{
+				"id": "http://chasen-web.micro.blog/2025/05/06/im-working-from-spain-for.html",
+				
+				"content_html": "<p>I’m working from Spain for the next few weeks and I’m feeling grateful to have this as my real meeting background for the week. 💻 Taken with Photo Booth. 😂</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m working from Spain for the next few weeks and I’m feeling grateful to have this as my real meeting background for the week. 💻 Taken with Photo Booth. 😂 \n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"400\" alt=\"A view of neighboring buildings with ornate balconies is visible through a window with a decorative railing.\">\n",
+				"date_published": "2025-05-05T15:28:22-07:00",
+				"url": "https://web.chasen.dev/2025/05/06/im-working-from-spain-for.html"
+			},
+			{
+				"id": "http://chasen-web.micro.blog/2025/04/16/most-of-ai-feels-fantastical.html",
+				
+				"content_html": "<p>Most of <a href=\"https://ai-2027.com/\">AI 2027</a> feels fantastical, but this rings more true every day (July 2027):</p>\n<blockquote>\n<p>Hiring new programmers has nearly stopped, but there’s never been a better time to be a consultant on integrating AI into your business.</p>\n</blockquote>\n<p>Later in the Race timeline (December 2027), fantastical:</p>\n<blockquote>\n<p>The 2027 holiday season is a time of incredible optimism: GDP is ballooning, politics has become friendlier and less partisan, and there are awesome new apps on every phone.</p>\n</blockquote>\n<p>I’ve lost hope of friendlier and less partisan politics, at least in this administration.</p>\n<p>Via <a href=\"https://www.manton.org/2025/04/15/ai-is-a-good-read.html\">Manton Reece</a>.</p>\n",
+				"content_text": "Most of [AI 2027](https://ai-2027.com/) feels fantastical, but this rings more true every day (July 2027):\n\n> Hiring new programmers has nearly stopped, but there’s never been a better time to be a consultant on integrating AI into your business.\n\nLater in the Race timeline (December 2027), fantastical:\n\n> The 2027 holiday season is a time of incredible optimism: GDP is ballooning, politics has become friendlier and less partisan, and there are awesome new apps on every phone.\n\nI’ve lost hope of friendlier and less partisan politics, at least in this administration.\n\nVia [Manton Reece](https://www.manton.org/2025/04/15/ai-is-a-good-read.html).\n",
+				"date_published": "2025-04-16T20:46:07-07:00",
+				"url": "https://web.chasen.dev/2025/04/16/most-of-ai-feels-fantastical.html"
+			},
+			{
+				"id": "http://chasen-web.micro.blog/2025/04/09/happy-css-naked-day-to.html",
+				
+				"content_html": "<p>Happy <a href=\"https://css-naked-day.org\">CSS Naked Day</a> to all those who celebrate! <a href=\"https://chasen.dev\">chasen.dev</a> #CSSNakedDay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy [CSS Naked Day](https://css-naked-day.org) to all those who celebrate! [chasen.dev](https://chasen.dev) #CSSNakedDay\n\n<img src=\"uploads/2025/image.png\" width=\"598\" height=\"600\" alt=\"The chasen.dev webpage displaying in Firefox with no custom styles. On the page, there is a a vertical navigation list, a centered headshot, the name Chasen Le Hara as a heading, a short bio, a Mastodon link, and an About me section with two paragraphs of text showing.\">\n",
+				"date_published": "2025-04-09T08:56:57-07:00",
+				"url": "https://web.chasen.dev/2025/04/09/happy-css-naked-day-to.html",
+				"tags": ["CSS Naked Day"]
+			}
+	]
+}
